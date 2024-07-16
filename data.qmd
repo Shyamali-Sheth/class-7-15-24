@@ -1,0 +1,17 @@
+---
+title: "Data"
+format: html
+execute: 
+  echo: false
+  message: false
+---
+
+What is the relation between hiring rates and names
+What is the probability of getting hired if 
+```{r}
+library(tidyverse)
+```
+
+```{r}
+read.csv('resume.csv')
+```
